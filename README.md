@@ -9,7 +9,7 @@
 
 
 #### Itch.IO : https://damosiar.itch.io
-#### LinkedIn : https://www.linkedin.com/in/damos-immanuel-andika-rubyantono-30b124292/
+
 
 <!--
 **DamosIAR/DamosIAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
