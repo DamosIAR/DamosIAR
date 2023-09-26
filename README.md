@@ -1,5 +1,5 @@
 ### Hi there, i'm Damos Immanuel 👋
-<img lenght="500" height="500" alt="Game Development" src="Game Development.jpg">
+<img lenght="500" height="350" alt="Game Development" src="Game Development.jpg">
 
 Nice to meet you! I'm currently studying Game Application and Technology at Bina Nusantara University. I have created several games during my studies as a game programmer, both as part of project assignments and in my spare time. Glowing Pong, Hopeless, and Flappy Bird Clone are some of the games that i have created.
 You can check my games on Itch.IO. 
