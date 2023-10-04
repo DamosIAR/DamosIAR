@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Damos Immanuel</h1>
+<h2 align="center"><img align = "center" src="https://github.com/DamosIAR/DamosIAR/blob/main/github-header-image.png" alt "Github Header"></h2>
 <h3 align="center">Currently studying game development in Binus University</h3>
 
 
