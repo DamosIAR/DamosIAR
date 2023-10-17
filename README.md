@@ -1,4 +1,4 @@
-<h2 align="center"><img align = "center" src="https://github.com/DamosIAR/DamosIAR/blob/main/github-header-image.png" alt "Github Header" height = "230" length="500"></h2>
+<h2 align="center"><img align = "center" src="https://github.com/DamosIAR/DamosIAR/blob/main/github-header-image.png" alt "Github Header" height = "200" length="300"></h2>
 <h3 align="center">Currently Studying Game Development in Binus University</h3>
 
 
