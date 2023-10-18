@@ -17,12 +17,36 @@ Nice to meet you! I have created several games during my studies as a game progr
       <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/1488a57a-894f-4f9b-a682-659b859a8742"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A tower-defense game themed around human immune system. This game was made for PkM (Pengabdian Kepada Masyarakat) BGDC 2022 with other BGDC members. Immunopedia is a game where you need to know and understand what each unit can do, be it ally or enemy.</td>
-      <td valign="text-top"">This game the first game that I got fully made and released. Work Less Play More is a 2D beat-em-up game with a unique mechanic where you need to avoid your boss attention. The game was made for Brackeys Game Jam 2022.1 with the theme "This is not real".<div></div></td>
+      <td valign="text-top">A classic game of pong</td>
+      <td valign="text-top"">This is a side scroll game</td>
     </tr>
     <tr>
       <td><a href="https://damosiar.itch.io/glowing-pong-2d">Itch Page</td>
       <td><a href="https://damosiar.itch.io/hopeless">Itch Page</td>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%"><a href="https://damosiar.itch.io/flappy-bird-clone">Flappy Bird Clone </a></th>
+      <th width="50%"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/e5405ba9-4c50-416b-87d4-639118319c6c"/></td>
+      <td><img src=""/></td>
+    </tr>
+    <tr>
+      <td valign="text-top">This is my very first game that i made, a clone of a flappy bird</td>
+      <td valign="text-top""></td>
+    </tr>
+    <tr>
+      <td><a href="https://damosiar.itch.io/flappy-bird-clone">Itch Page</td>
+      <td><a href="">Itch Page</td>
     </tr>
     <tr>
     </tr>
