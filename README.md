@@ -1,7 +1,6 @@
 <h2 align="center"><img align = "center" src="https://github.com/DamosIAR/DamosIAR/blob/main/github-header-image.png" alt "Github Header" height = "200" length="300"></h2>
 <h3 align="center">Currently Studying Game Development in Binus University</h3>
 
-
 Nice to meet you! I have created several games during my studies as a game programmer, both as part of project assignments and in my spare time. Here are some of the games that i have created.
 
 <table width="100%">
