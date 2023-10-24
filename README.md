@@ -12,7 +12,7 @@ Nice to meet you! I have created several games during my studies as a game progr
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/89306af9-36b4-4a80-87cd-ddb6a8f49e97" width="450"/></td>
+      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/89306af9-36b4-4a80-87cd-ddb6a8f49e97" width="350"/></td>
       <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/1488a57a-894f-4f9b-a682-659b859a8742"/></td>
     </tr>
     <tr>
