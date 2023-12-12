@@ -36,7 +36,7 @@ Nice to meet you! I have created several games during my studies as a game progr
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/e5405ba9-4c50-416b-87d4-639118319c6c"/></td>
+      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/e5405ba9-4c50-416b-87d4-639118319c6c" width="300"/></td>
       <td><img src=""/></td>
     </tr>
     <tr>
