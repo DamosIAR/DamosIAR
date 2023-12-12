@@ -12,8 +12,8 @@ Nice to meet you! I have created several games during my studies as a game progr
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/89306af9-36b4-4a80-87cd-ddb6a8f49e97" height="90" length="160/></td>
-      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/1488a57a-894f-4f9b-a682-659b859a8742" height="90" length="160/></td>
+      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/89306af9-36b4-4a80-87cd-ddb6a8f49e97" height="150" length="150"/></td>
+      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/1488a57a-894f-4f9b-a682-659b859a8742" height="150" length="150"/></td>
     </tr>
     <tr>
       <td valign="text-top">A classic game of pong</td>
@@ -36,7 +36,7 @@ Nice to meet you! I have created several games during my studies as a game progr
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/e5405ba9-4c50-416b-87d4-639118319c6c" height="90" length="160/></td>
+      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/e5405ba9-4c50-416b-87d4-639118319c6c" height="150" length="150/></td>
       <td><img src=""/></td>
     </tr>
     <tr>
