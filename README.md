@@ -1,19 +1,19 @@
-<h2 align="center"><img align = "center" src="https://github.com/DamosIAR/DamosIAR/blob/main/github-header-image.png" alt "Github Header" height = "100" length="150"></h2>
+<h2 align="center"><img align = "center" src="https://github.com/DamosIAR/DamosIAR/blob/main/github-header-image.png" alt "Github Header" height = "150" length="200"></h2>
 <h3 align="center">Currently Studying Game Development in Binus University</h3>
 
 Nice to meet you! I have created several games during my studies as a game programmer, both as part of project assignments and in my spare time. Here are some of the games that i have created.
 
-<table width="100%">
+<table width="1000">
   <thead>
     <tr>
-      <th width="50%"><a href="https://damosiar.itch.io/glowing-pong-2d">Glowing Pong </a></th>
-      <th width="50%"><a href="https://damosiar.itch.io/hopeless">HopeLess </a></th>
+      <th width="500"><a href="https://damosiar.itch.io/glowing-pong-2d">Glowing Pong </a></th>
+      <th width="500"><a href="https://damosiar.itch.io/hopeless">HopeLess </a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/89306af9-36b4-4a80-87cd-ddb6a8f49e97" height="150" length="150"/></td>
-      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/1488a57a-894f-4f9b-a682-659b859a8742" height="150" length="150"/></td>
+      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/89306af9-36b4-4a80-87cd-ddb6a8f49e97" height="250" length="250"/></td>
+      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/1488a57a-894f-4f9b-a682-659b859a8742" height="250" length="250"/></td>
     </tr>
     <tr>
       <td valign="text-top">A classic game of pong</td>
@@ -27,16 +27,16 @@ Nice to meet you! I have created several games during my studies as a game progr
     </tr>
   </tbody>
 </table>
-<table width="100%">
+<table width="1000">
   <thead>
     <tr>
-      <th width="50%"><a href="https://damosiar.itch.io/flappy-bird-clone">Flappy Bird Clone </a></th>
-      <th width="50%"></a></th>
+      <th width="500"><a href="https://damosiar.itch.io/flappy-bird-clone">Flappy Bird Clone </a></th>
+      <th width="500"></a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/e5405ba9-4c50-416b-87d4-639118319c6c" height="150" length="150/></td>
+      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/e5405ba9-4c50-416b-87d4-639118319c6c" height="250" length="250/></td>
       <td><img src=""/></td>
     </tr>
     <tr>
