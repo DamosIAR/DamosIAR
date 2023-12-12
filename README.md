@@ -16,8 +16,9 @@ Nice to meet you! I have created several games during my studies as a game progr
       <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/1488a57a-894f-4f9b-a682-659b859a8742" height="250" length="250"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A classic game of pong</td>
-      <td valign="text-top"">This is a side scroll game</td>
+      <td valign="text-top">Glowing Pong is a visually captivating 2D game that puts a modern twist on the classic Pong arcade game. The game features a sleek, minimalist design with vibrant, glowing visuals that react dynamically to player actions.
+The goal of Glowing Pong is simple - bounce the glowing ball back and forth between two paddles, trying to outlast your opponent and score as many points as possible.. </td>
+      <td valign="text-top"">Hopeless is an adrenaline-pumping 2D side-scrolling game that challenges players to navigate through a dark and treacherous world filled with obstacles. The objective is straightforward: guide your character to the end of each level, overcoming obstacles and avoiding imminent danger.</td>
     </tr>
     <tr>
       <td><a href="https://damosiar.itch.io/glowing-pong-2d">Itch Page</td>
