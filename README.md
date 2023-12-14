@@ -32,7 +32,7 @@ The goal of Glowing Pong is simple - bounce the glowing ball back and forth betw
   <thead>
     <tr>
       <th width="500"><a href="https://damosiar.itch.io/flappy-bird-clone">Flappy Bird Clone </a></th>
-      <th width="500"></a></th>
+      <th width="500">Endless Roller</a></th>
     </tr>
   </thead>
   <tbody>
@@ -42,7 +42,7 @@ The goal of Glowing Pong is simple - bounce the glowing ball back and forth betw
     </tr>
     <tr>
       <td valign="text-top">This is my very first game that i made, a clone of a flappy bird</td>
-      <td valign="text-top""></td>
+      <td valign="text-top"">Soon...</td>
     </tr>
     <tr>
       <td><a href="https://damosiar.itch.io/flappy-bird-clone">Itch Page</td>
