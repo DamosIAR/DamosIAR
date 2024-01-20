@@ -32,7 +32,7 @@ The goal of Glowing Pong is simple - bounce the glowing ball back and forth betw
   <thead>
     <tr>
       <th width="500"><a href="https://damosiar.itch.io/flappy-bird-clone">Flappy Bird Clone </a></th>
-      <th width="500">Endless Roller</a></th>
+      <th width="500"><a href="https://damosiar.itch.io/gaias-guardian"> Gaia's Guardian </a></th>
     </tr>
   </thead>
   <tbody>
