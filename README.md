@@ -3,6 +3,7 @@
 
 Nice to meet you! I have created several games during my studies as a game programmer, both as part of project assignments and in my spare time. Here are some of the games that i have created.
 
+
 <table width="1000">
   <thead>
     <tr>
@@ -37,12 +38,12 @@ The goal of Glowing Pong is simple - bounce the glowing ball back and forth betw
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/e5405ba9-4c50-416b-87d4-639118319c6c" height="250" length="250/></td>
-      <td><img src="[Gaia's Guardian GitHub GIF](https://github.com/DamosIAR/DamosIAR/assets/125948571/308eca2d-bff5-4d42-ae7a-ab71c21037f4)" /></td>
+      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/e5405ba9-4c50-416b-87d4-639118319c6c" height="250" length="250"/></td>
+      <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/4f98a79c-4428-45d7-8239-18d43c0f8313" height="250" length="250"/></td>
     </tr>
     <tr>
       <td valign="text-top">This is my very first game that i made, a clone of a flappy bird</td>
-      <td valign="text-top"">Soon...</td>
+      <td valign="text-top">Gaia's Guardian is a top-down 2D game where the player play as a Guardian to all animals on land. </td>
     </tr>
     <tr>
       <td><a href="https://damosiar.itch.io/flappy-bird-clone">Itch Page</td>
