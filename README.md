@@ -38,7 +38,7 @@ The goal of Glowing Pong is simple - bounce the glowing ball back and forth betw
   <tbody>
     <tr>
       <td><img src="https://github.com/DamosIAR/DamosIAR/assets/125948571/e5405ba9-4c50-416b-87d4-639118319c6c" height="250" length="250/></td>
-      <td><img src=""/></td>
+      <td><img src="[Gaia's Guardian GitHub GIF](https://github.com/DamosIAR/DamosIAR/assets/125948571/308eca2d-bff5-4d42-ae7a-ab71c21037f4)" /></td>
     </tr>
     <tr>
       <td valign="text-top">This is my very first game that i made, a clone of a flappy bird</td>
@@ -46,7 +46,7 @@ The goal of Glowing Pong is simple - bounce the glowing ball back and forth betw
     </tr>
     <tr>
       <td><a href="https://damosiar.itch.io/flappy-bird-clone">Itch Page</td>
-      <td><a href="">Itch Page</td>
+      <td><a href="https://damosiar.itch.io/gaias-guardian">Itch Page</td>
     </tr>
     <tr>
     </tr>
